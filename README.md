@@ -8,7 +8,11 @@ This was professional work for an industrial equipment manufacturer. The source 
 
 ## Demo
 
-▶️ [Watch the machine running](media/demo.mp4)
+
+
+https://github.com/user-attachments/assets/ae52311e-4190-490b-be95-f983876ab44e
+
+
 
 ## What I built
 
