@@ -8,7 +8,11 @@ Fue trabajo profesional para un fabricante de equipo industrial. El código fuen
 
 ## Demostración
 
-▶️ [Ver la máquina funcionando](media/demo.mp4)
+
+
+https://github.com/user-attachments/assets/7a46d45f-330c-47ba-b7eb-85e7516d1419
+
+
 
 ## Qué construí
 
